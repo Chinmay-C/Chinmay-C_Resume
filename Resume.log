@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210) (preloaded format=pdflatex 2017.4.23)  24 APR 2017 22:17
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210) (preloaded format=pdflatex 2017.4.23)  24 APR 2017 22:18
 entering extended mode
 **./Resume.tex
 (Resume.tex
@@ -222,11 +222,26 @@ Overfull \hbox (6.94513pt too wide) in paragraph at lines 77--78
 -ilog, Python 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--88
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--88
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--88
+
+ []
+
 [2] (Resume.aux) ) 
 Here is how much of TeX's memory you used:
  2218 strings out of 493333
  32255 string characters out of 3141349
- 95160 words of memory out of 3000000
+ 96160 words of memory out of 3000000
  5726 multiletter control sequences out of 15000+200000
  5029 words of font info for 19 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -237,7 +252,7 @@ rams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/Programs/MiKTeX 2.
 9/fonts/type1/public/amsfonts/cm/cmr17.pfb><D:/Programs/MiKTeX 2.9/fonts/type1/
 public/amsfonts/cm/cmsy10.pfb><D:/Programs/MiKTeX 2.9/fonts/type1/public/amsfon
 ts/cm/cmtt10.pfb>
-Output written on Resume.pdf (2 pages, 7837917 bytes).
+Output written on Resume.pdf (2 pages, 7838202 bytes).
 PDF statistics:
  36 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
